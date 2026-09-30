@@ -1,16 +1,12 @@
-## Hi there 👋
+```bash
+$ whoami
+cirno @ rime.moe
 
-<!--
-**cirnomoe/cirnomoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ cat /etc/motd
+Freezing packets at absolute zero.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ sysinfo
+OS      : Arch Linux / Linux kernel
+Domain  : https://rime.moe
+Status  : 273.15°C below
+```
